@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality | Dashboard Analitica</title>
+    <style>
+        /* Estetica Dark, Minimale e Moderna */
+        :root {
+            --bg-base: #0f0f11;
+            --bg-card: #18181c;
+            --text-main: #f0f0f0;
+            --text-dim: #7a7a85;
+            --accent-temp: #ff6b6b;
+            --accent-hum: #4dabf7;
+            --accent-gas: #20c997;
+            --accent-global: #fcc419;
+            --btn-bg: #2b2b33;
+            --btn-hover: #3a3a45;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-main);
+            margin: 0;
+            padding: 30px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header {
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-weight: 500;
+            letter-spacing: 1px;
+            font-size: 1.5rem;
+            margin: 0;
+        }
+
+        .btn-download {
+            background-color: var(--btn-bg);
+            color: var(--text-main);
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .btn-download:hover {
+            background-color: var(--btn-hover);
+            border-color: rgba(255,255,255,0.2);
+        }
+
+        /* Griglia a 6 box simmetrica */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            width: 100%;
+            max-width: 1100px;
+            margin-bottom: 20px;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            width: 100%;
+            max-width: 1100px;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border-radius: 10px;
+            padding: 24px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.03);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .label {
+            font-size: 0.85rem;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+
+        /* Scritta Grande: MEDIA */
+        .value {
+            font-size: 2.5rem;
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+            margin-bottom: 5px;
+        }
+
+        /* Scritta Piccola: ATTUALE */
+        .sub-value {
+            font-size: 0.9rem;
+            color: #aaaaaa;
+            border-top: 1px solid rgba(255,255,255,0.08);
+            padding-top: 10px;
+            margin-top: 5px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .t-color { color: var(--accent-temp); }
+        .h-color { color: var(--accent-hum); }
+        .g-color { color: var(--accent-gas); }
+        .global-color { color: var(--accent-global); }
+
+        canvas {
+            width: 100%;
+            height: 150px;
+            margin-top: 15px;
+        }
+
+        .status-bar {
+            margin-top: 40px;
+            font-size: 0.8rem;
+            color: var(--text-dim);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .indicator {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: var(--accent-gas);
+            box-shadow: 0 0 10px var(--accent-gas);
+        }
+
+        @media (max-width: 600px) {
+            .header { flex-direction: column; gap: 20px; text-align: center; }
+            .charts-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>AIR QUALITY</h1>
+        <a href="/speriamo_che_funziona.json" download="dati_sensori.json" class="btn-download">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+            Scarica JSON
+        </a>
+    </div>
+    
+    <div class="dashboard-grid">
+        <div class="card">
+            <div class="label">Media Storica Temperatura</div>
+            <div class="value t-color" id="avg-temp">--</div>
+            <div class="sub-value"><span>Dato Attuale:</span> <strong id="live-temp">--</strong></div>
+        </div>
+        <div class="card">
+            <div class="label">Media Storica Umidità</div>
+            <div class="value h-color" id="avg-hum">--</div>
+            <div class="sub-value"><span>Dato Attuale:</span> <strong id="live-hum">--</strong></div>
+        </div>
+        <div class="card">
+            <div class="label">Media Globale Qualità Aria</div>
+            <div class="value global-color" id="avg-global-gas">--</div>
+            <div class="sub-value"><span>Media Attuale (3 Sensori):</span> <strong id="live-global-gas">--</strong></div>
+        </div>
+
+        <div class="card">
+            <div class="label">Media Qualità Aria (Pin 34)</div>
+            <div class="value g-color" id="avg-mq34">--</div>
+            <div class="sub-value"><span>Dato Attuale:</span> <strong id="live-mq34">--</strong></div>
+        </div>
+        <div class="card">
+            <div class="label">Media Qualità Aria (Pin 32)</div>
+            <div class="value g-color" id="avg-mq32">--</div>
+            <div class="sub-value"><span>Dato Attuale:</span> <strong id="live-mq32">--</strong></div>
+        </div>
+        <div class="card">
+            <div class="label">Media Qualità Aria (Pin 35)</div>
+            <div class="value g-color" id="avg-mq35">--</div>
+            <div class="sub-value"><span>Dato Attuale:</span> <strong id="live-mq35">--</strong></div>
+        </div>
+    </div>
+
+    <div class="charts-grid">
+        <div class="card">
+            <div class="label">Trend Temperatura (°C)</div>
+            <canvas id="chart-temp"></canvas>
+        </div>
+        <div class="card">
+            <div class="label">Trend Qualità Aria (%)</div>
+            <canvas id="chart-gas"></canvas>
+        </div>
+    </div>
+
+    <div class="status-bar">
+        <div class="indicator" id="live-indicator"></div>
+        <span id="status-text">Sincronizzazione in corso...</span>
+    </div>
+
+    <script>
+        const maxDataPoints = 30;
+        let storTemp = [];
+        let storMq34 = [];
+        let storMq32 = [];
+        let storMq35 = [];
+
+        // Motore grafico Canvas
+        function drawLineChart(canvasId, dataSets, colors) {
+            const canvas = document.getElementById(canvasId);
+            const ctx = canvas.getContext('2d');
+            
+            canvas.width = canvas.offsetWidth * window.devicePixelRatio;
+            canvas.height = canvas.offsetHeight * window.devicePixelRatio;
+            ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+            
+            const w = canvas.offsetWidth;
+            const h = canvas.offsetHeight;
+            
+            ctx.clearRect(0, 0, w, h);
+            if(dataSets[0].length === 0) return;
+
+            let min = Infinity, max = -Infinity;
+            dataSets.forEach(set => {
+                set.forEach(val => {
+                    if (val < min) min = val;
+                    if (val > max) max = val;
+                });
+            });
+            
+            const range = (max - min) || 1;
+            min -= range * 0.1;
+            max += range * 0.1;
+
+            dataSets.forEach((data, index) => {
+                ctx.beginPath();
+                ctx.strokeStyle = colors[index];
+                ctx.lineWidth = 3;
+                ctx.lineCap = 'round';
+                ctx.lineJoin = 'round';
+
+                const xStep = w / (maxDataPoints - 1);
+                
+                for(let i = 0; i < data.length; i++) {
+                    const x = w - ((data.length - 1 - i) * xStep);
+                    const y = h - ((data[i] - min) / (max - min) * h);
+                    
+                    if(i === 0) ctx.moveTo(x, y);
+                    else ctx.lineTo(x, y);
+                }
+                ctx.stroke();
+            });
+        }
+
+        // Funzione per convertire il valore Raw (0-4095) in Percentuale (0-100%)
+        function calculateGasPercentage(rawValue) {
+            let percentage = (rawValue / 4095) * 100;
+            if (percentage > 100) percentage = 100;
+            if (percentage < 0) percentage = 0;
+            return percentage;
+        }
+
+        async function fetchSensorData() {
+            try {
+                document.getElementById('live-indicator').style.opacity = '0.3';
+                
+                const response = await fetch('/speriamo_che_funziona.json');
+                let rawText = await response.text();
+                
+                rawText = rawText.replace("// Inizio registrazione dati", "").trim();
+                if (rawText.endsWith(",")) rawText = rawText.slice(0, -1);
+                
+                const dataArray = JSON.parse("[" + rawText + "]");
+                const totalPoints = dataArray.length;
+
+                // --- 1. CALCOLO MEDIE STORICHE (ALL-TIME) ---
+                let sumTemp = 0, sumHum = 0, sumMq34 = 0, sumMq32 = 0, sumMq35 = 0;
+
+                for (let i = 0; i < totalPoints; i++) {
+                    sumTemp += dataArray[i].sensor_DHT11.temperature_C;
+                    sumHum  += dataArray[i].sensor_DHT11["humidity_%"];
+                    sumMq34 += dataArray[i].sensor_MQ135.MQ_Pin34;
+                    sumMq32 += dataArray[i].sensor_MQ135.MQ_Pin32;
+                    sumMq35 += dataArray[i].sensor_MQ135.MQ_Pin35;
+                }
+
+                const avgTemp = (sumTemp / totalPoints).toFixed(1);
+                const avgHum  = (sumHum / totalPoints).toFixed(1);
+                
+                // Medie storiche raw trasformate in percentuale
+                const avgMq34_pct = calculateGasPercentage(sumMq34 / totalPoints).toFixed(1);
+                const avgMq32_pct = calculateGasPercentage(sumMq32 / totalPoints).toFixed(1);
+                const avgMq35_pct = calculateGasPercentage(sumMq35 / totalPoints).toFixed(1);
+                
+                // Media Globale Storica (tutti i 3 sensori combinati)
+                const globalGasSum = sumMq34 + sumMq32 + sumMq35;
+                const avgGlobalGas_pct = calculateGasPercentage(globalGasSum / (totalPoints * 3)).toFixed(1);
+
+
+                // --- 2. LETTURA DATI LIVE (ULTIMO RECORD) ---
+                const latest = dataArray[totalPoints - 1];
+                
+                const liveTemp = latest.sensor_DHT11.temperature_C.toFixed(1);
+                const liveHum  = latest.sensor_DHT11["humidity_%"].toFixed(1);
+                
+                const liveMq34_raw = latest.sensor_MQ135.MQ_Pin34;
+                const liveMq32_raw = latest.sensor_MQ135.MQ_Pin32;
+                const liveMq35_raw = latest.sensor_MQ135.MQ_Pin35;
+
+                const liveMq34_pct = calculateGasPercentage(liveMq34_raw).toFixed(1);
+                const liveMq32_pct = calculateGasPercentage(liveMq32_raw).toFixed(1);
+                const liveMq35_pct = calculateGasPercentage(liveMq35_raw).toFixed(1);
+
+                // Media Globale Istantanea (media degli ultimi 3 valori registrati)
+                const liveGlobalGasAvg_pct = calculateGasPercentage((liveMq34_raw + liveMq32_raw + liveMq35_raw) / 3).toFixed(1);
+
+
+                // --- 3. STAMPA IN CONSOLE PER DEBUG ---
+                console.log(`[${new Date().toLocaleTimeString()}] Ultimi dati rilevati:` , {
+                    "Temperatura": liveTemp + " °C",
+                    "Umidità": liveHum + " %",
+                    "MQ34 (Raw)": liveMq34_raw + " -> " + liveMq34_pct + "%",
+                    "MQ32 (Raw)": liveMq32_raw + " -> " + liveMq32_pct + "%",
+                    "MQ35 (Raw)": liveMq35_raw + " -> " + liveMq35_pct + "%"
+                });
+
+
+                // --- 4. AGGIORNAMENTO INTERFACCIA ---
+                document.getElementById('avg-temp').innerText = avgTemp + ' °C';
+                document.getElementById('avg-hum').innerText  = avgHum + ' %';
+                document.getElementById('avg-global-gas').innerText = avgGlobalGas_pct + ' %';
+                document.getElementById('avg-mq34').innerText = avgMq34_pct + ' %';
+                document.getElementById('avg-mq32').innerText = avgMq32_pct + ' %';
+                document.getElementById('avg-mq35').innerText = avgMq35_pct + ' %';
+
+                document.getElementById('live-temp').innerText = liveTemp + ' °C';
+                document.getElementById('live-hum').innerText  = liveHum + ' %';
+                document.getElementById('live-global-gas').innerText = liveGlobalGasAvg_pct + ' %';
+                document.getElementById('live-mq34').innerText = liveMq34_pct + ' %';
+                document.getElementById('live-mq32').innerText = liveMq32_pct + ' %';
+                document.getElementById('live-mq35').innerText = liveMq35_pct + ' %';
+
+
+                // --- 5. DISEGNO GRAFICI ---
+                const recentData = dataArray.slice(-maxDataPoints);
+                storTemp = recentData.map(d => d.sensor_DHT11.temperature_C);
+                storMq34 = recentData.map(d => calculateGasPercentage(d.sensor_MQ135.MQ_Pin34));
+                storMq32 = recentData.map(d => calculateGasPercentage(d.sensor_MQ135.MQ_Pin32));
+                storMq35 = recentData.map(d => calculateGasPercentage(d.sensor_MQ135.MQ_Pin35));
+
+                drawLineChart('chart-temp', [storTemp], ['#ff6b6b']);
+                drawLineChart('chart-gas', [storMq34, storMq32, storMq35], ['#20c997', '#4dabf7', '#fcc419']);
+
+                // Aggiornamento barra di stato (ripristina colore normale in caso di precedenti errori)
+                document.getElementById('live-indicator').style.backgroundColor = "var(--accent-gas)";
+                document.getElementById('status-text').innerText = "Live / " + totalPoints + " campioni analizzati";
+                setTimeout(() => { document.getElementById('live-indicator').style.opacity = '1'; }, 200);
+
+            } catch (error) {
+                // Silenziamo la console eliminando il console.error
+                // Aggiorniamo solo l'interfaccia visiva per segnalare l'attesa
+                document.getElementById('status-text').innerText = "Attesa sincronizzazione dal sensore...";
+                document.getElementById('live-indicator').style.backgroundColor = "#fa5252";
+            }
+        }
+
+        // Init & Interval
+        fetchSensorData();
+        setInterval(fetchSensorData, 2000);
+        window.addEventListener('resize', fetchSensorData);
+    </script>
+</body>
+</html>
