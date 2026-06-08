@@ -17075,3 +17075,6171 @@
     "MQ_Pin35": 1219
   }
 },
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 535,
+    "MQ_Pin32": 967,
+    "MQ_Pin35": 973
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 642,
+    "MQ_Pin32": 1266,
+    "MQ_Pin35": 1727
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 735,
+    "MQ_Pin32": 1557,
+    "MQ_Pin35": 2070
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 752,
+    "MQ_Pin32": 1712,
+    "MQ_Pin35": 2042
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 771,
+    "MQ_Pin32": 1761,
+    "MQ_Pin35": 1789
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 729,
+    "MQ_Pin32": 1727,
+    "MQ_Pin35": 1433
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 677,
+    "MQ_Pin32": 1652,
+    "MQ_Pin35": 1121
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 611,
+    "MQ_Pin32": 1535,
+    "MQ_Pin35": 907
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 560,
+    "MQ_Pin32": 1436,
+    "MQ_Pin35": 786
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 505,
+    "MQ_Pin32": 1331,
+    "MQ_Pin35": 710
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 454,
+    "MQ_Pin32": 1234,
+    "MQ_Pin35": 649
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 422,
+    "MQ_Pin32": 1154,
+    "MQ_Pin35": 616
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 375,
+    "MQ_Pin32": 1087,
+    "MQ_Pin35": 573
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 351,
+    "MQ_Pin32": 1018,
+    "MQ_Pin35": 554
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 336,
+    "MQ_Pin32": 965,
+    "MQ_Pin35": 537
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 313,
+    "MQ_Pin32": 914,
+    "MQ_Pin35": 523
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 307,
+    "MQ_Pin32": 875,
+    "MQ_Pin35": 497
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 282,
+    "MQ_Pin32": 837,
+    "MQ_Pin35": 476
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 259,
+    "MQ_Pin32": 791,
+    "MQ_Pin35": 457
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 237,
+    "MQ_Pin32": 742,
+    "MQ_Pin35": 434
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 223,
+    "MQ_Pin32": 695,
+    "MQ_Pin35": 418
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 203,
+    "MQ_Pin32": 647,
+    "MQ_Pin35": 393
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 201,
+    "MQ_Pin32": 624,
+    "MQ_Pin35": 380
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 197,
+    "MQ_Pin32": 606,
+    "MQ_Pin35": 376
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 187,
+    "MQ_Pin32": 578,
+    "MQ_Pin35": 351
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 179,
+    "MQ_Pin32": 558,
+    "MQ_Pin35": 341
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 178,
+    "MQ_Pin32": 534,
+    "MQ_Pin35": 339
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 164,
+    "MQ_Pin32": 511,
+    "MQ_Pin35": 334
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 157,
+    "MQ_Pin32": 498,
+    "MQ_Pin35": 329
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 162,
+    "MQ_Pin32": 489,
+    "MQ_Pin35": 316
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 166,
+    "MQ_Pin32": 478,
+    "MQ_Pin35": 312
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 157,
+    "MQ_Pin32": 464,
+    "MQ_Pin35": 316
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 159,
+    "MQ_Pin32": 456,
+    "MQ_Pin35": 303
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 164,
+    "MQ_Pin32": 448,
+    "MQ_Pin35": 305
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 158,
+    "MQ_Pin32": 439,
+    "MQ_Pin35": 304
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 149,
+    "MQ_Pin32": 430,
+    "MQ_Pin35": 290
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 144,
+    "MQ_Pin32": 419,
+    "MQ_Pin35": 284
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 156,
+    "MQ_Pin32": 409,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 144,
+    "MQ_Pin32": 400,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 138,
+    "MQ_Pin32": 394,
+    "MQ_Pin35": 274
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 131,
+    "MQ_Pin32": 384,
+    "MQ_Pin35": 273
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 369,
+    "MQ_Pin35": 265
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 130,
+    "MQ_Pin32": 366,
+    "MQ_Pin35": 253
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 359,
+    "MQ_Pin35": 255
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 139,
+    "MQ_Pin32": 350,
+    "MQ_Pin35": 249
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 133,
+    "MQ_Pin32": 341,
+    "MQ_Pin35": 246
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 123,
+    "MQ_Pin32": 340,
+    "MQ_Pin35": 243
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 121,
+    "MQ_Pin32": 334,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 334,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 122,
+    "MQ_Pin32": 329,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 129,
+    "MQ_Pin32": 322,
+    "MQ_Pin35": 238
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 127,
+    "MQ_Pin32": 320,
+    "MQ_Pin35": 236
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 119,
+    "MQ_Pin32": 307,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 330,
+    "MQ_Pin32": 605,
+    "MQ_Pin35": 386
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 308,
+    "MQ_Pin32": 723,
+    "MQ_Pin35": 477
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 267,
+    "MQ_Pin32": 806,
+    "MQ_Pin35": 479
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 247,
+    "MQ_Pin32": 837,
+    "MQ_Pin35": 486
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 219,
+    "MQ_Pin32": 816,
+    "MQ_Pin35": 464
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 194,
+    "MQ_Pin32": 758,
+    "MQ_Pin35": 448
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 185,
+    "MQ_Pin32": 704,
+    "MQ_Pin35": 427
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 151,
+    "MQ_Pin32": 643,
+    "MQ_Pin35": 398
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 138,
+    "MQ_Pin32": 592,
+    "MQ_Pin35": 383
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 143,
+    "MQ_Pin32": 560,
+    "MQ_Pin35": 373
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 144,
+    "MQ_Pin32": 528,
+    "MQ_Pin35": 365
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 135,
+    "MQ_Pin32": 487,
+    "MQ_Pin35": 361
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 119,
+    "MQ_Pin32": 467,
+    "MQ_Pin35": 347
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 115,
+    "MQ_Pin32": 449,
+    "MQ_Pin35": 336
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 118,
+    "MQ_Pin32": 432,
+    "MQ_Pin35": 332
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 416,
+    "MQ_Pin35": 333
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 114,
+    "MQ_Pin32": 401,
+    "MQ_Pin35": 320
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 113,
+    "MQ_Pin32": 394,
+    "MQ_Pin35": 314
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 384,
+    "MQ_Pin35": 311
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 375,
+    "MQ_Pin35": 306
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 111,
+    "MQ_Pin32": 373,
+    "MQ_Pin35": 306
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 109,
+    "MQ_Pin32": 365,
+    "MQ_Pin35": 304
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 100,
+    "MQ_Pin32": 365,
+    "MQ_Pin35": 304
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 97,
+    "MQ_Pin32": 357,
+    "MQ_Pin35": 297
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 106,
+    "MQ_Pin32": 353,
+    "MQ_Pin35": 304
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 106,
+    "MQ_Pin32": 343,
+    "MQ_Pin35": 299
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 109,
+    "MQ_Pin32": 341,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 105,
+    "MQ_Pin32": 336,
+    "MQ_Pin35": 290
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 110,
+    "MQ_Pin32": 333,
+    "MQ_Pin35": 283
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 99,
+    "MQ_Pin32": 325,
+    "MQ_Pin35": 273
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 105,
+    "MQ_Pin32": 335,
+    "MQ_Pin35": 289
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 122,
+    "MQ_Pin32": 328,
+    "MQ_Pin35": 278
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 102,
+    "MQ_Pin32": 322,
+    "MQ_Pin35": 273
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 97,
+    "MQ_Pin32": 321,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 317,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 101,
+    "MQ_Pin32": 315,
+    "MQ_Pin35": 270
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 309,
+    "MQ_Pin35": 267
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 99,
+    "MQ_Pin32": 308,
+    "MQ_Pin35": 269
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 102,
+    "MQ_Pin32": 307,
+    "MQ_Pin35": 270
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 106,
+    "MQ_Pin32": 304,
+    "MQ_Pin35": 266
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 91,
+    "MQ_Pin32": 302,
+    "MQ_Pin35": 257
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 100,
+    "MQ_Pin32": 300,
+    "MQ_Pin35": 261
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 297,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 97,
+    "MQ_Pin32": 295,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 111,
+    "MQ_Pin32": 292,
+    "MQ_Pin35": 255
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 287,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 286,
+    "MQ_Pin35": 252
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 285,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 101,
+    "MQ_Pin32": 277,
+    "MQ_Pin35": 250
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 102,
+    "MQ_Pin32": 277,
+    "MQ_Pin35": 247
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 277,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 101,
+    "MQ_Pin32": 293,
+    "MQ_Pin35": 251
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 106,
+    "MQ_Pin32": 273,
+    "MQ_Pin35": 243
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 94,
+    "MQ_Pin32": 272,
+    "MQ_Pin35": 245
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 272,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 99,
+    "MQ_Pin32": 272,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 97,
+    "MQ_Pin32": 272,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 94,
+    "MQ_Pin32": 266,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 91,
+    "MQ_Pin32": 264,
+    "MQ_Pin35": 232
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 96,
+    "MQ_Pin32": 259,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 102,
+    "MQ_Pin32": 261,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 100,
+    "MQ_Pin32": 266,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 104,
+    "MQ_Pin32": 258,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 86,
+    "MQ_Pin32": 253,
+    "MQ_Pin35": 230
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 91,
+    "MQ_Pin32": 254,
+    "MQ_Pin35": 224
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 91,
+    "MQ_Pin32": 254,
+    "MQ_Pin35": 223
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 92,
+    "MQ_Pin32": 249,
+    "MQ_Pin35": 224
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 262,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 102,
+    "MQ_Pin32": 257,
+    "MQ_Pin35": 228
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 101,
+    "MQ_Pin32": 257,
+    "MQ_Pin35": 237
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 110,
+    "MQ_Pin32": 250,
+    "MQ_Pin35": 215
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 251,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 87,
+    "MQ_Pin32": 243,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 226,
+    "MQ_Pin35": 202
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 125,
+    "MQ_Pin35": 105
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 122,
+    "MQ_Pin35": 103
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 114,
+    "MQ_Pin35": 98
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 116,
+    "MQ_Pin35": 103
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 119,
+    "MQ_Pin35": 95
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 121,
+    "MQ_Pin35": 102
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 128,
+    "MQ_Pin35": 113
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 124,
+    "MQ_Pin35": 95
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 221,
+    "MQ_Pin35": 91
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 99,
+    "MQ_Pin32": 279,
+    "MQ_Pin35": 128
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 109,
+    "MQ_Pin32": 322,
+    "MQ_Pin35": 173
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 338,
+    "MQ_Pin35": 203
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 106,
+    "MQ_Pin32": 343,
+    "MQ_Pin35": 211
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 336,
+    "MQ_Pin35": 225
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 323,
+    "MQ_Pin35": 231
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 105,
+    "MQ_Pin32": 305,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 96,
+    "MQ_Pin32": 294,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 95,
+    "MQ_Pin32": 285,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 107,
+    "MQ_Pin32": 273,
+    "MQ_Pin35": 221
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 107,
+    "MQ_Pin32": 270,
+    "MQ_Pin35": 213
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 256,
+    "MQ_Pin35": 221
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 87,
+    "MQ_Pin32": 255,
+    "MQ_Pin35": 211
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 100,
+    "MQ_Pin32": 253,
+    "MQ_Pin35": 228
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 252,
+    "MQ_Pin35": 223
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 242,
+    "MQ_Pin35": 211
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 239,
+    "MQ_Pin35": 215
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 95,
+    "MQ_Pin32": 242,
+    "MQ_Pin35": 215
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 92,
+    "MQ_Pin32": 240,
+    "MQ_Pin35": 215
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 93,
+    "MQ_Pin32": 238,
+    "MQ_Pin35": 219
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 234,
+    "MQ_Pin35": 213
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 97,
+    "MQ_Pin32": 235,
+    "MQ_Pin35": 213
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 51.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 229,
+    "MQ_Pin35": 218
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 227,
+    "MQ_Pin35": 219
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 217,
+    "MQ_Pin35": 213
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 221,
+    "MQ_Pin35": 219
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 219,
+    "MQ_Pin35": 214
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 221,
+    "MQ_Pin35": 226
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 217,
+    "MQ_Pin35": 225
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 221,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 218,
+    "MQ_Pin35": 229
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 95,
+    "MQ_Pin32": 222,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 93,
+    "MQ_Pin32": 220,
+    "MQ_Pin35": 225
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 94,
+    "MQ_Pin32": 222,
+    "MQ_Pin35": 221
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 111,
+    "MQ_Pin32": 239,
+    "MQ_Pin35": 250
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 107,
+    "MQ_Pin32": 233,
+    "MQ_Pin35": 756
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 94,
+    "MQ_Pin32": 227,
+    "MQ_Pin35": 592
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 62,
+    "MQ_Pin32": 196,
+    "MQ_Pin35": 459
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 68,
+    "MQ_Pin32": 205,
+    "MQ_Pin35": 400
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 209,
+    "MQ_Pin35": 348
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 84,
+    "MQ_Pin32": 211,
+    "MQ_Pin35": 336
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 154,
+    "MQ_Pin32": 203,
+    "MQ_Pin35": 602
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 132,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 451
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.9,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 125,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 399
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 133,
+    "MQ_Pin32": 230,
+    "MQ_Pin35": 377
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 304,
+    "MQ_Pin32": 219,
+    "MQ_Pin35": 457
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 243,
+    "MQ_Pin32": 219,
+    "MQ_Pin35": 523
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 202,
+    "MQ_Pin32": 213,
+    "MQ_Pin35": 441
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 50.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 207,
+    "MQ_Pin32": 247,
+    "MQ_Pin35": 422
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 551,
+    "MQ_Pin32": 827,
+    "MQ_Pin35": 640
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 487,
+    "MQ_Pin32": 954,
+    "MQ_Pin35": 1023
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 433,
+    "MQ_Pin32": 1054,
+    "MQ_Pin35": 1168
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 384,
+    "MQ_Pin32": 1043,
+    "MQ_Pin35": 1136
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 304,
+    "MQ_Pin32": 958,
+    "MQ_Pin35": 1005
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 260,
+    "MQ_Pin32": 845,
+    "MQ_Pin35": 857
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 218,
+    "MQ_Pin32": 739,
+    "MQ_Pin35": 766
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 189,
+    "MQ_Pin32": 647,
+    "MQ_Pin35": 701
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 170,
+    "MQ_Pin32": 576,
+    "MQ_Pin35": 653
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 126,
+    "MQ_Pin32": 527,
+    "MQ_Pin35": 625
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 471,
+    "MQ_Pin35": 580
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 117,
+    "MQ_Pin32": 438,
+    "MQ_Pin35": 546
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 107,
+    "MQ_Pin32": 415,
+    "MQ_Pin35": 538
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 389,
+    "MQ_Pin35": 505
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 114,
+    "MQ_Pin32": 374,
+    "MQ_Pin35": 469
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 110,
+    "MQ_Pin32": 352,
+    "MQ_Pin35": 447
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 105,
+    "MQ_Pin32": 339,
+    "MQ_Pin35": 426
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 332,
+    "MQ_Pin35": 400
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 77,
+    "MQ_Pin32": 321,
+    "MQ_Pin35": 400
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 94,
+    "MQ_Pin32": 318,
+    "MQ_Pin35": 372
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 305,
+    "MQ_Pin35": 356
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 299,
+    "MQ_Pin35": 351
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 291,
+    "MQ_Pin35": 322
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 65,
+    "MQ_Pin32": 287,
+    "MQ_Pin35": 335
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 66,
+    "MQ_Pin32": 281,
+    "MQ_Pin35": 304
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 278,
+    "MQ_Pin35": 307
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 274,
+    "MQ_Pin35": 297
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 269,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 68,
+    "MQ_Pin32": 266,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 270,
+    "MQ_Pin35": 277
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 73,
+    "MQ_Pin32": 257,
+    "MQ_Pin35": 259
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 252,
+    "MQ_Pin35": 263
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 256,
+    "MQ_Pin35": 257
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 256,
+    "MQ_Pin35": 254
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 253,
+    "MQ_Pin35": 263
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 246,
+    "MQ_Pin35": 258
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 241,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 93,
+    "MQ_Pin32": 245,
+    "MQ_Pin35": 251
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 240,
+    "MQ_Pin35": 249
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 240,
+    "MQ_Pin35": 238
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 101,
+    "MQ_Pin32": 238,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 76,
+    "MQ_Pin32": 239,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 60,
+    "MQ_Pin32": 235,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 75,
+    "MQ_Pin32": 240,
+    "MQ_Pin35": 250
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 75,
+    "MQ_Pin32": 230,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 230,
+    "MQ_Pin35": 246
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 227,
+    "MQ_Pin35": 253
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 229,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 230,
+    "MQ_Pin35": 243
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 224,
+    "MQ_Pin35": 252
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 223,
+    "MQ_Pin35": 237
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 65,
+    "MQ_Pin32": 219,
+    "MQ_Pin35": 231
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 220,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 221,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 55,
+    "MQ_Pin32": 220,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 224,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 219,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 218,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 219,
+    "MQ_Pin35": 228
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 48,
+    "MQ_Pin32": 225,
+    "MQ_Pin35": 229
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 86,
+    "MQ_Pin32": 218,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 63,
+    "MQ_Pin32": 214,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 73,
+    "MQ_Pin32": 218,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 87,
+    "MQ_Pin32": 212,
+    "MQ_Pin35": 230
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 236
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 84,
+    "MQ_Pin32": 217,
+    "MQ_Pin35": 225
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 218,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 96,
+    "MQ_Pin32": 210,
+    "MQ_Pin35": 223
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 59,
+    "MQ_Pin32": 206,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 210,
+    "MQ_Pin35": 219
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 205,
+    "MQ_Pin35": 243
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 219
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 61,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 86,
+    "MQ_Pin32": 203,
+    "MQ_Pin35": 223
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 55,
+    "MQ_Pin32": 206,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 68,
+    "MQ_Pin32": 207,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 210,
+    "MQ_Pin35": 223
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 199,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 202,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 202,
+    "MQ_Pin35": 226
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 94,
+    "MQ_Pin32": 202,
+    "MQ_Pin35": 228
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 195,
+    "MQ_Pin35": 223
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 51,
+    "MQ_Pin32": 204,
+    "MQ_Pin35": 232
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 198,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 194,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 193,
+    "MQ_Pin35": 221
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 76,
+    "MQ_Pin32": 198,
+    "MQ_Pin35": 229
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 195,
+    "MQ_Pin35": 228
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 62,
+    "MQ_Pin32": 199,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 73,
+    "MQ_Pin32": 199,
+    "MQ_Pin35": 229
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 206,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 213
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 48,
+    "MQ_Pin32": 177,
+    "MQ_Pin35": 203
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 175,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 58,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 207
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 39,
+    "MQ_Pin32": 174,
+    "MQ_Pin35": 210
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 60,
+    "MQ_Pin32": 175,
+    "MQ_Pin35": 197
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 48,
+    "MQ_Pin32": 174,
+    "MQ_Pin35": 208
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 49,
+    "MQ_Pin32": 170,
+    "MQ_Pin35": 208
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 51,
+    "MQ_Pin32": 169,
+    "MQ_Pin35": 190
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 66,
+    "MQ_Pin32": 173,
+    "MQ_Pin35": 199
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 38,
+    "MQ_Pin32": 166,
+    "MQ_Pin35": 199
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 32,
+    "MQ_Pin32": 171,
+    "MQ_Pin35": 182
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 48,
+    "MQ_Pin32": 171,
+    "MQ_Pin35": 199
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 54,
+    "MQ_Pin32": 169,
+    "MQ_Pin35": 205
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.6,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 35,
+    "MQ_Pin32": 168,
+    "MQ_Pin35": 194
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 49,
+    "MQ_Pin32": 168,
+    "MQ_Pin35": 198
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 52,
+    "MQ_Pin32": 167,
+    "MQ_Pin35": 203
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 45,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 193
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 39,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 208
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 54,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 198
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 213
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 54,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 201
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 62,
+    "MQ_Pin32": 175,
+    "MQ_Pin35": 205
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 47,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 205
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 49,
+    "MQ_Pin32": 178,
+    "MQ_Pin35": 206
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 63,
+    "MQ_Pin32": 174,
+    "MQ_Pin35": 206
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 39,
+    "MQ_Pin32": 171,
+    "MQ_Pin35": 202
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.7,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 65,
+    "MQ_Pin32": 173,
+    "MQ_Pin35": 208
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.9,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 51,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 222
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 66,
+    "MQ_Pin32": 174,
+    "MQ_Pin35": 201
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 53,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 211
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.9,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 209
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 31,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 204
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 58,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 217
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 60,
+    "MQ_Pin32": 169,
+    "MQ_Pin35": 215
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.8,
+    "humidity_%": 58.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 167,
+    "MQ_Pin35": 201
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.5,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 173,
+    "MQ_Pin32": 442,
+    "MQ_Pin35": 302
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 538,
+    "MQ_Pin35": 421
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 510,
+    "MQ_Pin35": 432
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 23,
+    "MQ_Pin32": 427,
+    "MQ_Pin35": 389
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 16,
+    "MQ_Pin32": 334,
+    "MQ_Pin35": 337
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.5,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 16,
+    "MQ_Pin32": 258,
+    "MQ_Pin35": 320
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.5,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 195,
+    "MQ_Pin35": 299
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 169,
+    "MQ_Pin35": 273
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.5,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 140,
+    "MQ_Pin35": 258
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.5,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 118,
+    "MQ_Pin35": 217
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 96,
+    "MQ_Pin35": 215
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 93,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 87,
+    "MQ_Pin35": 176
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 79,
+    "MQ_Pin35": 167
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 87,
+    "MQ_Pin35": 103
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 127,
+    "MQ_Pin35": 195
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 144,
+    "MQ_Pin35": 252
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 147,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 130,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 130,
+    "MQ_Pin35": 209
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 117,
+    "MQ_Pin35": 190
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 102,
+    "MQ_Pin35": 189
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 61.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 96,
+    "MQ_Pin35": 186
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 113,
+    "MQ_Pin35": 205
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 112,
+    "MQ_Pin35": 190
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 10,
+    "MQ_Pin32": 116,
+    "MQ_Pin35": 193
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.6,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 125,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 114,
+    "MQ_Pin35": 201
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 111,
+    "MQ_Pin35": 201
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 112,
+    "MQ_Pin35": 195
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 112,
+    "MQ_Pin35": 205
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 105,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 111,
+    "MQ_Pin35": 193
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 108,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 103,
+    "MQ_Pin35": 182
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.8,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 99,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 1,
+    "MQ_Pin32": 100,
+    "MQ_Pin35": 175
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 101,
+    "MQ_Pin35": 185
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 96,
+    "MQ_Pin35": 174
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 103,
+    "MQ_Pin35": 182
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 101,
+    "MQ_Pin35": 173
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 97,
+    "MQ_Pin35": 183
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 94,
+    "MQ_Pin35": 176
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 102,
+    "MQ_Pin35": 173
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.7,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 0,
+    "MQ_Pin32": 90,
+    "MQ_Pin35": 173
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 3,
+    "MQ_Pin32": 114,
+    "MQ_Pin35": 183
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 115,
+    "MQ_Pin32": 256,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 144,
+    "MQ_Pin32": 334,
+    "MQ_Pin35": 357
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 166,
+    "MQ_Pin32": 400,
+    "MQ_Pin35": 445
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 187,
+    "MQ_Pin32": 405,
+    "MQ_Pin35": 446
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 173,
+    "MQ_Pin32": 390,
+    "MQ_Pin35": 429
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 191,
+    "MQ_Pin32": 350,
+    "MQ_Pin35": 395
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 176,
+    "MQ_Pin32": 325,
+    "MQ_Pin35": 386
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 155,
+    "MQ_Pin32": 313,
+    "MQ_Pin35": 375
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 144,
+    "MQ_Pin32": 298,
+    "MQ_Pin35": 368
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 104,
+    "MQ_Pin32": 247,
+    "MQ_Pin35": 316
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 63,
+    "MQ_Pin32": 214,
+    "MQ_Pin35": 192
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 99,
+    "MQ_Pin32": 290,
+    "MQ_Pin35": 313
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 337,
+    "MQ_Pin35": 401
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 109,
+    "MQ_Pin32": 349,
+    "MQ_Pin35": 409
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 335,
+    "MQ_Pin35": 392
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 310,
+    "MQ_Pin35": 368
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 243,
+    "MQ_Pin35": 311
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 227,
+    "MQ_Pin35": 310
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 72,
+    "MQ_Pin32": 224,
+    "MQ_Pin35": 303
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 25.9,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 115,
+    "MQ_Pin32": 213,
+    "MQ_Pin35": 290
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 107,
+    "MQ_Pin32": 223,
+    "MQ_Pin35": 298
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 90,
+    "MQ_Pin32": 213,
+    "MQ_Pin35": 298
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 110,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 302
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 76,
+    "MQ_Pin32": 218,
+    "MQ_Pin35": 283
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 206,
+    "MQ_Pin35": 293
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 126,
+    "MQ_Pin32": 214,
+    "MQ_Pin35": 299
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 215,
+    "MQ_Pin35": 304
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 213,
+    "MQ_Pin35": 308
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 87,
+    "MQ_Pin32": 213,
+    "MQ_Pin35": 290
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 110,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 297
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 302
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 205,
+    "MQ_Pin35": 297
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 114,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 287
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 294
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 107,
+    "MQ_Pin32": 205,
+    "MQ_Pin35": 291
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 100,
+    "MQ_Pin32": 210,
+    "MQ_Pin35": 293
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 119,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 281
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 207,
+    "MQ_Pin35": 284
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 118,
+    "MQ_Pin32": 206,
+    "MQ_Pin35": 287
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 113,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 296
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 207,
+    "MQ_Pin35": 292
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 202,
+    "MQ_Pin35": 287
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 113,
+    "MQ_Pin32": 207,
+    "MQ_Pin35": 283
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 122,
+    "MQ_Pin32": 204,
+    "MQ_Pin35": 291
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 116,
+    "MQ_Pin32": 198,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 287
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 113,
+    "MQ_Pin32": 205,
+    "MQ_Pin35": 303
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 128,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 295
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 126,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 100,
+    "MQ_Pin32": 193,
+    "MQ_Pin35": 279
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 145,
+    "MQ_Pin32": 197,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 92,
+    "MQ_Pin32": 208,
+    "MQ_Pin35": 295
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 117,
+    "MQ_Pin32": 197,
+    "MQ_Pin35": 279
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 103,
+    "MQ_Pin32": 202,
+    "MQ_Pin35": 294
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 112,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 288
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 91,
+    "MQ_Pin32": 194,
+    "MQ_Pin35": 283
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 101,
+    "MQ_Pin32": 193,
+    "MQ_Pin35": 295
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 110,
+    "MQ_Pin32": 202,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 92,
+    "MQ_Pin32": 203,
+    "MQ_Pin35": 276
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 119,
+    "MQ_Pin32": 201,
+    "MQ_Pin35": 272
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 189,
+    "MQ_Pin35": 271
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 176,
+    "MQ_Pin35": 259
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 171,
+    "MQ_Pin35": 251
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.0,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 169,
+    "MQ_Pin35": 257
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 77,
+    "MQ_Pin32": 170,
+    "MQ_Pin35": 258
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 77,
+    "MQ_Pin32": 165,
+    "MQ_Pin35": 261
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 162,
+    "MQ_Pin35": 260
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 165,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 86,
+    "MQ_Pin32": 162,
+    "MQ_Pin35": 245
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 167,
+    "MQ_Pin35": 247
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 162,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 86,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 246
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 247
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 254
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 60.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 65,
+    "MQ_Pin32": 164,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 96,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 244
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 253
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 251
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 253
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 244
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 76,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 164,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 77,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 98,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 252
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 245
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 244
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 87,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 244
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.1,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 254
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 77,
+    "MQ_Pin32": 166,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 237
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 156,
+    "MQ_Pin35": 227
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 63,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 81,
+    "MQ_Pin32": 167,
+    "MQ_Pin35": 246
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 246
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 154,
+    "MQ_Pin35": 237
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 58,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 247
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 76,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 63,
+    "MQ_Pin32": 156,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 162,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 233
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 75,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 155,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 73,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 237
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 162,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 244
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 97,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 237
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 243
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 69,
+    "MQ_Pin32": 155,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 64,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 230
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 82,
+    "MQ_Pin32": 156,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 67,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.2,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 76,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 246
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 163,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 71,
+    "MQ_Pin32": 164,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 57,
+    "MQ_Pin32": 156,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 89,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 77,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 70,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 83,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 235
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.4,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 234
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 79,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 245
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 80,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 253
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 65,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 256
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 75,
+    "MQ_Pin32": 161,
+    "MQ_Pin35": 242
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 78,
+    "MQ_Pin32": 157,
+    "MQ_Pin35": 252
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 59,
+    "MQ_Pin32": 160,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 65,
+    "MQ_Pin32": 154,
+    "MQ_Pin35": 241
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 162,
+    "MQ_Pin35": 245
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.5,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 85,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 240
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 74,
+    "MQ_Pin32": 159,
+    "MQ_Pin35": 239
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 50,
+    "MQ_Pin32": 158,
+    "MQ_Pin35": 259
+  }
+},
+{
+  "board": "ESP32",
+  "sensor_DHT11": {
+    "temperature_C": 26.3,
+    "humidity_%": 59.0
+  },
+  "sensor_MQ135": {
+    "MQ_Pin34": 146,
+    "MQ_Pin32": 234,
+    "MQ_Pin35": 306
+  }
+},
